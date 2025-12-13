@@ -1,4 +1,6 @@
 
 bug CommandNotFoundException
 bug start 
-
+ git diff 
+ practic
+sdgjw
